@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../../content/cropped_images_randomized"
+		},
+		{
+			"path": "../../cropped_images_randomized"
+		},
+		{
+			"path": "../../content/all_images_randomized"
 		}
 	],
 	"settings": {}
